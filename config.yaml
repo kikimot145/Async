@@ -1,0 +1,7 @@
+host: localhost
+port: 8080
+directory: /tmp/1
+neighbors:
+ - localhost:8081
+ - localhost:8082
+save_file: True
